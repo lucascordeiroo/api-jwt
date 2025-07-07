@@ -29,7 +29,7 @@ API RESTful desenvolvida com Flask e JWT (JSON Web Token) para autenticação de
 ## ▶️ Como executar
 
 ### 1. Clone o repositório
-git clone https://github.com/lucascordeiroo/api-jwt-auth.git
+git clone https://github.com/lucascordeiroo/api-jwt.git
 cd api-jwt-auth
 
 2. Instale as dependências
